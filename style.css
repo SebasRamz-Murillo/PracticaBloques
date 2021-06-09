@@ -1,0 +1,34 @@
+.containerA{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: stretch;
+    align-items: flex-start;
+}
+.containerB{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: stretch;
+    align-items: flex-end;
+}
+.bloque{
+    width: 5%;
+    height: 20%;
+}
+.R{
+    background-color: rgb(255, 0, 0);
+}
+.V{
+    background-color: rgb(21, 255, 0);
+}
+.A{
+    background-color: rgb(0, 183, 255);
+}
+.M{
+    background-color: rgb(135, 6, 255);
+}
